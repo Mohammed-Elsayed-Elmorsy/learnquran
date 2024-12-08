@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/learnquran/static/css/main.cda7ab61.css",
-    "main.js": "/learnquran/static/js/main.ef283303.js",
+    "main.css": "/learnquran/static/css/main.36ae4074.css",
+    "main.js": "/learnquran/static/js/main.ca58c336.js",
     "static/media/11.png": "/learnquran/static/media/11.953e6f0453d9e2f31003.png",
     "static/media/5.png": "/learnquran/static/media/5.e9400f55a0d85ca9aaec.png",
     "static/media/17.png": "/learnquran/static/media/17.9e8e7e6bcf966d8f94a7.png",
@@ -20,6 +20,7 @@
     "static/media/41.png": "/learnquran/static/media/41.cfa606652156ae3f653b.png",
     "static/media/mosque6.jpg": "/learnquran/static/media/mosque6.7324e7b390fdf45e6806.jpg",
     "static/media/islam-8519137_1280.webp": "/learnquran/static/media/islam-8519137_1280.4de3da0daf68245ae55e.webp",
+    "static/media/mosque3.png": "/learnquran/static/media/mosque3.ca000dfabbb6076529f8.png",
     "static/media/mosque1.png": "/learnquran/static/media/mosque1.01742fee4b4043d3b43f.png",
     "static/media/57.png": "/learnquran/static/media/57.6d6070ecfbe0e9d56d10.png",
     "static/media/flags@2x.webp": "/learnquran/static/media/flags@2x.11151219817c4593cbfa.webp",
@@ -37,11 +38,11 @@
     "static/media/globe@2x.webp": "/learnquran/static/media/globe@2x.5dc7e51d6b5d42fc2be4.webp",
     "index.html": "/learnquran/index.html",
     "static/media/globe.webp": "/learnquran/static/media/globe.7fb216c936a98b90918e.webp",
-    "main.cda7ab61.css.map": "/learnquran/static/css/main.cda7ab61.css.map",
-    "main.ef283303.js.map": "/learnquran/static/js/main.ef283303.js.map"
+    "main.36ae4074.css.map": "/learnquran/static/css/main.36ae4074.css.map",
+    "main.ca58c336.js.map": "/learnquran/static/js/main.ca58c336.js.map"
   },
   "entrypoints": [
-    "static/css/main.cda7ab61.css",
-    "static/js/main.ef283303.js"
+    "static/css/main.36ae4074.css",
+    "static/js/main.ca58c336.js"
   ]
 }
