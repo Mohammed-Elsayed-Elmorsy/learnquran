@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/learnquran/static/css/main.9ea76967.css",
-    "main.js": "/learnquran/static/js/main.8c390b0a.js",
+    "main.js": "/learnquran/static/js/main.b684e3ea.js",
     "static/media/41.png": "/learnquran/static/media/41.7f2bb6698dc6f6dda113.png",
     "static/media/11.png": "/learnquran/static/media/11.953e6f0453d9e2f31003.png",
     "static/media/5.png": "/learnquran/static/media/5.e9400f55a0d85ca9aaec.png",
@@ -44,10 +44,10 @@
     "index.html": "/learnquran/index.html",
     "static/media/globe.webp": "/learnquran/static/media/globe.7fb216c936a98b90918e.webp",
     "main.9ea76967.css.map": "/learnquran/static/css/main.9ea76967.css.map",
-    "main.8c390b0a.js.map": "/learnquran/static/js/main.8c390b0a.js.map"
+    "main.b684e3ea.js.map": "/learnquran/static/js/main.b684e3ea.js.map"
   },
   "entrypoints": [
     "static/css/main.9ea76967.css",
-    "static/js/main.8c390b0a.js"
+    "static/js/main.b684e3ea.js"
   ]
 }
