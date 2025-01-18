@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/learnquran/static/css/main.1d0ecc99.css",
-    "main.js": "/learnquran/static/js/main.89bc8ce8.js",
+    "main.css": "/learnquran/static/css/main.d92c9501.css",
+    "main.js": "/learnquran/static/js/main.2d2840d7.js",
     "static/media/41.png": "/learnquran/static/media/41.7f2bb6698dc6f6dda113.png",
     "static/media/11.png": "/learnquran/static/media/11.953e6f0453d9e2f31003.png",
     "static/media/5.png": "/learnquran/static/media/5.e9400f55a0d85ca9aaec.png",
@@ -38,15 +38,14 @@
     "static/media/united-states.png": "/learnquran/static/media/united-states.4d9d990626a3df96a265.png",
     "static/media/50.png": "/learnquran/static/media/50.76e2dd75d6fffee82427.png",
     "static/media/55.png": "/learnquran/static/media/55.d5f06570cd3655a6218d.png",
-    "static/media/Quran.jpg": "/learnquran/static/media/Quran.c4eef09a27cf760193c0.jpg",
     "static/media/globe@2x.webp": "/learnquran/static/media/globe@2x.5dc7e51d6b5d42fc2be4.webp",
     "index.html": "/learnquran/index.html",
     "static/media/globe.webp": "/learnquran/static/media/globe.7fb216c936a98b90918e.webp",
-    "main.1d0ecc99.css.map": "/learnquran/static/css/main.1d0ecc99.css.map",
-    "main.89bc8ce8.js.map": "/learnquran/static/js/main.89bc8ce8.js.map"
+    "main.d92c9501.css.map": "/learnquran/static/css/main.d92c9501.css.map",
+    "main.2d2840d7.js.map": "/learnquran/static/js/main.2d2840d7.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d0ecc99.css",
-    "static/js/main.89bc8ce8.js"
+    "static/css/main.d92c9501.css",
+    "static/js/main.2d2840d7.js"
   ]
 }
