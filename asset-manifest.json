@@ -1,8 +1,10 @@
 {
   "files": {
-    "main.css": "/learnquran/static/css/main.20a52487.css",
-    "main.js": "/learnquran/static/js/main.5dee4556.js",
-    "static/media/41.png": "/learnquran/static/media/41.7f2bb6698dc6f6dda113.png",
+    "main.css": "/learnquran/static/css/main.9f697e33.css",
+    "main.js": "/learnquran/static/js/main.84f8f74d.js",
+    "static/media/mosque8.png": "/learnquran/static/media/mosque8.6077db538e37c86f1ade.png",
+    "static/media/41.png": "/learnquran/static/media/41.b9700ac44e3135955d21.png",
+    "static/media/44.png": "/learnquran/static/media/44.f73b75663aa60d463d7a.png",
     "static/media/11.png": "/learnquran/static/media/11.953e6f0453d9e2f31003.png",
     "static/media/5.png": "/learnquran/static/media/5.e9400f55a0d85ca9aaec.png",
     "static/media/mosque3.png": "/learnquran/static/media/mosque3.68a7c7c5aa36f4f7cd1d.png",
@@ -15,22 +17,21 @@
     "static/media/2.png": "/learnquran/static/media/2.4302e8d13c06fcf07801.png",
     "static/media/6.png": "/learnquran/static/media/6.df4fa0a969ff18de84c0.png",
     "static/media/37.png": "/learnquran/static/media/37.8755369222daf5adfa73.png",
+    "static/media/31.png": "/learnquran/static/media/31.41ec56608d466ccdf5d5.png",
+    "static/media/mosque5.png": "/learnquran/static/media/mosque5.68f4d2ff66161c63c6d5.png",
     "static/media/12.png": "/learnquran/static/media/12.61db85fccfc977bbb49b.png",
     "static/media/4.png": "/learnquran/static/media/4.a06e143468577607588d.png",
-    "static/media/29.png": "/learnquran/static/media/29.c47084a4524127d9e6a8.png",
     "static/media/35.png": "/learnquran/static/media/35.8fff70cfd2f3645ebff0.png",
-    "static/media/44.png": "/learnquran/static/media/44.ee20c079e3fb7d09b9fd.png",
-    "static/media/mosque5.png": "/learnquran/static/media/mosque5.112474ae517bcf0110b7.png",
-    "static/media/mosque4.png": "/learnquran/static/media/mosque4.5ba65f6f8d9294ac944c.png",
-    "static/media/mosque8.png": "/learnquran/static/media/mosque8.48a6cc63ec06a5c87645.png",
+    "static/media/mosque7.png": "/learnquran/static/media/mosque7.5ba65f6f8d9294ac944c.png",
     "static/media/islam-8519137_1280.webp": "/learnquran/static/media/islam-8519137_1280.4de3da0daf68245ae55e.webp",
-    "static/media/mosque7.png": "/learnquran/static/media/mosque7.452c958989f783bc4d1f.png",
+    "static/media/mosque4.png": "/learnquran/static/media/mosque4.452c958989f783bc4d1f.png",
     "static/media/mosque6.jpg": "/learnquran/static/media/mosque6.273d46dcf1d2d3eb6e19.jpg",
+    "static/media/mosque1.png": "/learnquran/static/media/mosque1.79077d24fa5ccd8bd6e0.png",
     "static/media/mosque2.png": "/learnquran/static/media/mosque2.01742fee4b4043d3b43f.png",
     "static/media/flags@2x.webp": "/learnquran/static/media/flags@2x.11151219817c4593cbfa.webp",
     "static/media/58.png": "/learnquran/static/media/58.f2ce73182d344f30cc0c.png",
-    "static/media/teacher6.jpg": "/learnquran/static/media/teacher6.d3f3454e4b2271f00e3f.jpg",
-    "static/media/teacher5.jpg": "/learnquran/static/media/teacher5.eb2c678c169e5e0f32ee.jpg",
+    "static/media/teacher6.jpg": "/learnquran/static/media/teacher6.a9791ab067efd9106596.jpg",
+    "static/media/teacher5.jpg": "/learnquran/static/media/teacher5.e6e281aef349c4a61837.jpg",
     "static/media/teacherdetails1.jpg": "/learnquran/static/media/teacherdetails1.a22421888e639b6204e1.jpg",
     "static/media/teacherdetails2.jpg": "/learnquran/static/media/teacherdetails2.cd90ac97016b58cd63c8.jpg",
     "static/media/53.png": "/learnquran/static/media/53.0cb84f8553e125432f3b.png",
@@ -45,11 +46,11 @@
     "static/media/globe@2x.webp": "/learnquran/static/media/globe@2x.5dc7e51d6b5d42fc2be4.webp",
     "index.html": "/learnquran/index.html",
     "static/media/globe.webp": "/learnquran/static/media/globe.7fb216c936a98b90918e.webp",
-    "main.20a52487.css.map": "/learnquran/static/css/main.20a52487.css.map",
-    "main.5dee4556.js.map": "/learnquran/static/js/main.5dee4556.js.map"
+    "main.9f697e33.css.map": "/learnquran/static/css/main.9f697e33.css.map",
+    "main.84f8f74d.js.map": "/learnquran/static/js/main.84f8f74d.js.map"
   },
   "entrypoints": [
-    "static/css/main.20a52487.css",
-    "static/js/main.5dee4556.js"
+    "static/css/main.9f697e33.css",
+    "static/js/main.84f8f74d.js"
   ]
 }
