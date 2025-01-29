@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/learnquran/static/css/main.c3c36798.css",
-    "main.js": "/learnquran/static/js/main.9261d409.js",
+    "main.css": "/learnquran/static/css/main.2bd46090.css",
+    "main.js": "/learnquran/static/js/main.0a36fcd6.js",
     "static/media/mosque8.png": "/learnquran/static/media/mosque8.6077db538e37c86f1ade.png",
     "static/media/41.png": "/learnquran/static/media/41.b9700ac44e3135955d21.png",
     "static/media/11.png": "/learnquran/static/media/11.953e6f0453d9e2f31003.png",
@@ -25,9 +25,21 @@
     "static/media/mosque7.png": "/learnquran/static/media/mosque7.5ba65f6f8d9294ac944c.png",
     "static/media/islam-8519137_1280.webp": "/learnquran/static/media/islam-8519137_1280.4de3da0daf68245ae55e.webp",
     "static/media/mosque4.png": "/learnquran/static/media/mosque4.452c958989f783bc4d1f.png",
+    "static/media/teacherdetails1-removebg-preview.png": "/learnquran/static/media/teacherdetails1-removebg-preview.c431bcc7616a62c41112.png",
+    "static/media/teacherdetails2-removebg-preview.png": "/learnquran/static/media/teacherdetails2-removebg-preview.3b7c081f124c0d223b31.png",
+    "static/media/58-removebg-preview.png": "/learnquran/static/media/58-removebg-preview.a3d1542ccf8ff92896eb.png",
     "static/media/mosque6.jpg": "/learnquran/static/media/mosque6.273d46dcf1d2d3eb6e19.jpg",
+    "static/media/53-removebg-preview.png": "/learnquran/static/media/53-removebg-preview.e909e9bbd226ecbef63e.png",
     "static/media/mosque1.png": "/learnquran/static/media/mosque1.79077d24fa5ccd8bd6e0.png",
+    "static/media/teacher6-removebg-preview.png": "/learnquran/static/media/teacher6-removebg-preview.a7b7c76e623267188ff9.png",
+    "static/media/55-removebg-preview.png": "/learnquran/static/media/55-removebg-preview.37a4db8be4457bfd65f7.png",
+    "static/media/teacher5-removebg-preview.png": "/learnquran/static/media/teacher5-removebg-preview.26f8c4a9db3f206c8cae.png",
+    "static/media/48-removebg-preview.png": "/learnquran/static/media/48-removebg-preview.aeeaa6a155e697d45114.png",
+    "static/media/49-removebg-preview.png": "/learnquran/static/media/49-removebg-preview.0052418dfa0a8bd0e775.png",
     "static/media/mosque2.png": "/learnquran/static/media/mosque2.01742fee4b4043d3b43f.png",
+    "static/media/52-removebg-preview.png": "/learnquran/static/media/52-removebg-preview.b16a8195bcb1fa4b164d.png",
+    "static/media/47-removebg-preview.png": "/learnquran/static/media/47-removebg-preview.170bbecac5c0c01d612f.png",
+    "static/media/50-removebg-preview.png": "/learnquran/static/media/50-removebg-preview.90d57fba83bc967b7c79.png",
     "static/media/flags@2x.webp": "/learnquran/static/media/flags@2x.11151219817c4593cbfa.webp",
     "static/media/58.png": "/learnquran/static/media/58.f2ce73182d344f30cc0c.png",
     "static/media/teacher6.jpg": "/learnquran/static/media/teacher6.25db509a062413529a70.jpg",
@@ -41,16 +53,17 @@
     "static/media/49.png": "/learnquran/static/media/49.1554db4ab05cd0c34427.png",
     "static/media/47.png": "/learnquran/static/media/47.605acfbc44191d594e8e.png",
     "static/media/united-states.png": "/learnquran/static/media/united-states.4d9d990626a3df96a265.png",
+    "static/media/logo-dark.jpg": "/learnquran/static/media/logo-dark.459f780f985ea645f6e5.jpg",
     "static/media/50.png": "/learnquran/static/media/50.76e2dd75d6fffee82427.png",
     "static/media/55.png": "/learnquran/static/media/55.d5f06570cd3655a6218d.png",
     "static/media/globe@2x.webp": "/learnquran/static/media/globe@2x.5dc7e51d6b5d42fc2be4.webp",
     "index.html": "/learnquran/index.html",
     "static/media/globe.webp": "/learnquran/static/media/globe.7fb216c936a98b90918e.webp",
-    "main.c3c36798.css.map": "/learnquran/static/css/main.c3c36798.css.map",
-    "main.9261d409.js.map": "/learnquran/static/js/main.9261d409.js.map"
+    "main.2bd46090.css.map": "/learnquran/static/css/main.2bd46090.css.map",
+    "main.0a36fcd6.js.map": "/learnquran/static/js/main.0a36fcd6.js.map"
   },
   "entrypoints": [
-    "static/css/main.c3c36798.css",
-    "static/js/main.9261d409.js"
+    "static/css/main.2bd46090.css",
+    "static/js/main.0a36fcd6.js"
   ]
 }
