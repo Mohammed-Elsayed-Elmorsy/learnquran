@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/learnquran/static/css/main.2bd46090.css",
-    "main.js": "/learnquran/static/js/main.0a36fcd6.js",
+    "main.css": "/learnquran/static/css/main.c1f56a04.css",
+    "main.js": "/learnquran/static/js/main.ba1259a6.js",
     "static/media/mosque8.png": "/learnquran/static/media/mosque8.6077db538e37c86f1ade.png",
     "static/media/41.png": "/learnquran/static/media/41.b9700ac44e3135955d21.png",
     "static/media/11.png": "/learnquran/static/media/11.953e6f0453d9e2f31003.png",
     "static/media/5.png": "/learnquran/static/media/5.e9400f55a0d85ca9aaec.png",
     "static/media/mosque3.png": "/learnquran/static/media/mosque3.68a7c7c5aa36f4f7cd1d.png",
     "static/media/32.png": "/learnquran/static/media/32.e65bb8b82aa5629d0bd2.png",
-    "static/media/17.png": "/learnquran/static/media/17.9e8e7e6bcf966d8f94a7.png",
+    "static/media/17.png": "/learnquran/static/media/17.3b1b83f8eacba2bbcd6d.png",
     "static/media/13.png": "/learnquran/static/media/13.0a6a7f96ce68cad94a7c.png",
     "static/media/14.png": "/learnquran/static/media/14.a793b1f2cd24e1e208a1.png",
     "static/media/18.png": "/learnquran/static/media/18.ede885bf8dc2eed8af4f.png",
     "static/media/9.png": "/learnquran/static/media/9.5b203bf8cffc468edd7f.png",
-    "static/media/44.png": "/learnquran/static/media/44.a08ba998001e686a74f5.png",
+    "static/media/44.png": "/learnquran/static/media/44.de460b73d298005dc80c.png",
     "static/media/2.png": "/learnquran/static/media/2.4302e8d13c06fcf07801.png",
     "static/media/6.png": "/learnquran/static/media/6.df4fa0a969ff18de84c0.png",
     "static/media/37.png": "/learnquran/static/media/37.8755369222daf5adfa73.png",
@@ -32,6 +32,7 @@
     "static/media/53-removebg-preview.png": "/learnquran/static/media/53-removebg-preview.e909e9bbd226ecbef63e.png",
     "static/media/mosque1.png": "/learnquran/static/media/mosque1.79077d24fa5ccd8bd6e0.png",
     "static/media/teacher6-removebg-preview.png": "/learnquran/static/media/teacher6-removebg-preview.a7b7c76e623267188ff9.png",
+    "static/media/logo-dark-removebg-preview (1).png": "/learnquran/static/media/logo-dark-removebg-preview (1).ab76b176f687d106e2e1.png",
     "static/media/55-removebg-preview.png": "/learnquran/static/media/55-removebg-preview.37a4db8be4457bfd65f7.png",
     "static/media/teacher5-removebg-preview.png": "/learnquran/static/media/teacher5-removebg-preview.26f8c4a9db3f206c8cae.png",
     "static/media/48-removebg-preview.png": "/learnquran/static/media/48-removebg-preview.aeeaa6a155e697d45114.png",
@@ -53,17 +54,16 @@
     "static/media/49.png": "/learnquran/static/media/49.1554db4ab05cd0c34427.png",
     "static/media/47.png": "/learnquran/static/media/47.605acfbc44191d594e8e.png",
     "static/media/united-states.png": "/learnquran/static/media/united-states.4d9d990626a3df96a265.png",
-    "static/media/logo-dark.jpg": "/learnquran/static/media/logo-dark.459f780f985ea645f6e5.jpg",
     "static/media/50.png": "/learnquran/static/media/50.76e2dd75d6fffee82427.png",
     "static/media/55.png": "/learnquran/static/media/55.d5f06570cd3655a6218d.png",
     "static/media/globe@2x.webp": "/learnquran/static/media/globe@2x.5dc7e51d6b5d42fc2be4.webp",
     "index.html": "/learnquran/index.html",
     "static/media/globe.webp": "/learnquran/static/media/globe.7fb216c936a98b90918e.webp",
-    "main.2bd46090.css.map": "/learnquran/static/css/main.2bd46090.css.map",
-    "main.0a36fcd6.js.map": "/learnquran/static/js/main.0a36fcd6.js.map"
+    "main.c1f56a04.css.map": "/learnquran/static/css/main.c1f56a04.css.map",
+    "main.ba1259a6.js.map": "/learnquran/static/js/main.ba1259a6.js.map"
   },
   "entrypoints": [
-    "static/css/main.2bd46090.css",
-    "static/js/main.0a36fcd6.js"
+    "static/css/main.c1f56a04.css",
+    "static/js/main.ba1259a6.js"
   ]
 }
